@@ -18,9 +18,9 @@ I am working to be a good Software developer, at the same time I am improving my
 - 📫 How to reach me: alpemre.can@gmail.com 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alpemrecan)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alpemrecan&theme=tokyonight)
 
 
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alpemrecan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alpemrecan//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/19342532/alp-emre-can)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alpemrecan&theme=tokyonight)
+
